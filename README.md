@@ -6,5 +6,5 @@
 mkdir -p ~/chromium/src
 tar *.tar.gz -C ~/chromium/src
 cd ~/chromium
-gclient config --name=src https://github.com/wpp2014/empty.git
+gclient config --name=src https://github.com/Jason-nullptr/empty.git
 gclient sync
